@@ -31,19 +31,11 @@ export const metadata = {
   },
   description: siteConfig.description,
   keywords: [
-    "Next.js",
-    "React",
-    "Tailwind CSS",
-    "Server Components",
-    "Radix UI",
+  'HIU Labs'
   ],
   authors: [
-    {
-      name: "shadcn",
-      url: "https://shadcn.com",
-    },
   ],
-  creator: "shadcn",
+  creator: "HIU Labs",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
